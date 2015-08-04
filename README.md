@@ -1,3 +1,4 @@
+
 About the game:
 Memory game is a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards. Its a basic 6 x 4 memory game.
 
@@ -19,6 +20,7 @@ Installation:
 
 *** Game and Scoring using Object Oriented PHP:
           memorygame/lib/game-script.php
+
 
 
 
